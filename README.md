@@ -12,8 +12,7 @@ Currently exploring **Software Engineering, AI-based systems, and Web Developmen
 
 - Java, Python, C  
 - SQL, MySQL  
-- HTML, CSS  
-- NumPy, Matplotlib  
+- HTML, CSS
 
 ---
 
