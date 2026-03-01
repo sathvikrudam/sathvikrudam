@@ -49,5 +49,4 @@ A low-cost agricultural dryer built with a 5-member team.
 
 ## 📫 Connect With Me
   
-- LinkedIn: https://www.linkedin.com/in/sathvikrudam/  
 - Email: rudamsathvik@gmail.com
