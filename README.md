@@ -20,5 +20,6 @@ Currently exploring **Software Engineering, AI-based systems, and Web Developmen
 
 - 🎓 B.Tech CSE (CGPA: 9.39)  
 - 🚀 Built a real-time Cyber Harassment Detection System  
-- 🌾 Developed a Mini Paddy Dryer (30% faster drying)  
+- 🌾 Developed a Mini Paddy Dryer (30% faster drying)
+- www.sathvikrudam.online  
 - 📫 rudamsathvik@gmail.com  
