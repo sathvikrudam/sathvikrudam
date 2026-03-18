@@ -19,7 +19,7 @@ Currently exploring **Software Engineering, AI-based systems, and Web Developmen
 ### A Bit About Me
 
 - 🎓 B.Tech CSE (CGPA: 9.39)  
-- 🚀 Built a real-time Cyber Harassment Detection System  
-- 🌾 Developed a Mini Paddy Dryer (30% faster drying)
+- 🚀 Built a real-time Collaborative Online Document Editing Platform  
+- 📁 Developed a Secure File Sharing System
 - Portfolio: www.sathvikrudam.online  
 - 📫 rudamsathvik@gmail.com  
