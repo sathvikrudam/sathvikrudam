@@ -18,7 +18,7 @@ Currently exploring **Software Engineering, AI-based systems, and Web Developmen
 
 ### A Bit About Me
 
-- 🎓 B.Tech CSE (CGPA: 9.39)  
+- 🎓 B.Tech CSE (CGPA: 9.36)  
 - 🚀 Built a real-time Collaborative Online Document Editing Platform  
 - 📁 Developed a Secure File Sharing System
 - Portfolio: www.sathvikrudam.online  
