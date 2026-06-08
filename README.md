@@ -11,7 +11,7 @@ Currently exploring **Software Engineering, AI-based systems, and Web Developmen
 ### Tools & Tech
 
 - Java, Python, C  
-- SQL, MySQL   
+- DBMS
 - HTML, CSS
 
 ---
