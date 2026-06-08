@@ -13,7 +13,7 @@ Currently exploring **Software Engineering, AI-based systems, and Web Developmen
 - Java, Python, C  
 - DBMS
 - HTML, CSS, JavaScript
-- OOPs, DSA
+- OOPs, DSA, Git, GitHub, Apache Tomcat
 
 ---
 
