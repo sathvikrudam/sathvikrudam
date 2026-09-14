@@ -19,7 +19,8 @@ Currently exploring **Software Engineering, AI-based systems, and Web Developmen
 
 ### A Bit About Me
 
-- 🎓 B.Tech CSE (CGPA: 9.36)  
+- 🎓 B.Tech CSE (CGPA: 9.36)
+- Developed a Flight Ticket Booking System using Java, JDBC, Servlets, JSP, DBMS
 - 🚀 Built a real-time Collaborative Online Document Editing Platform  
 - 📁 Developed a Secure File Sharing System
 - Portfolio: www.sathvikrudam.online  
